@@ -1,0 +1,5 @@
+## DESCRIPTION
+
+**GeoServer** adalah perangkat lunak server open-source berbasis Java yang memungkinkan pengguna untuk menampilkan, mengedit, dan membagikan data geospasial. Platform ini menyediakan solusi yang fleksibel dan efisien untuk mendistribusikan informasi geospasial dari berbagai sumber, seperti basis data GIS, data berbasis web, serta kumpulan data pribadi.
+
+GeoServer menyajikan data melalui protokol standar yang ditetapkan oleh Open Geospatial Consortium (OGC), yang mencakup tiga layanan utama. **Web Feature Service (WFS)** digunakan untuk menyajikan data fitur geografis dalam bentuk geometri vektor beserta atributnya. **Web Map Service (WMS)** memungkinkan penyajian peta dalam format gambar yang dihasilkan dari data geografis. Sementara itu, **Web Coverage Service (WCS)** digunakan untuk menampilkan data raster yang dihasilkan dari informasi geospasial. Dengan ketiga layanan ini, GeoServer dapat mendukung berbagai kebutuhan dalam visualisasi dan distribusi data geospasial secara efisien.
